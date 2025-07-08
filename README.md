@@ -62,4 +62,4 @@ Nous avons utilisé trois bases de données du catalogue des SITG :
 
 Il peut aussi être visualisé [ici](https://tlinard.github.io/toits-vegetalises-geneve)
 
-Auteurs : Joseph Grob et Tanguy Linard, dans le cadre du cours "Visualisation de données" du Professeur Isaac Pante. Lien vers le cours [ici] (https://applicationspub.unil.ch/interpub/noauth/php/Ud/ficheCours.php?v_enstyid=53406&v_ueid=174&v_langue=37)
+Auteurs : Joseph Grob et Tanguy Linard, dans le cadre du cours "Visualisation de données" du Professeur Isaac Pante. Lien vers le cours [ici](https://applicationspub.unil.ch/interpub/noauth/php/Ud/ficheCours.php?v_enstyid=53406&v_ueid=174&v_langue=37)
