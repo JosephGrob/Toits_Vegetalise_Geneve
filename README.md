@@ -5,28 +5,28 @@ Notre visualisation de données concerne les toits végétalisés sur le canton 
 
 - **Carte** : Identifie visuellement les toits végétalisés sur le canton et leur répartition sur l’ensemble du territoire et au sein des communes genevoises. Les toits végétalisés sont divisés en différentes couleurs selon l’utilisation des bâtiments qu’ils recouvrent : « Activités », « Autres », « Équipements collectifs », « Habitation », « Mixte logements et activités ».
 
-    ![Capture d'écran de la carte](images/map.png)
+    ![Capture d'écran de la carte](images/map.png.png)
   
 - **Graphique en Barres** : Montre le nombre de toits végétalisés pour chaque utilisation des bâtiments.
 
-    ![Capture d'écran de la du graphique en barres](images/barplot.png)
+    ![Capture d'écran de la du graphique en barres](images/barplot.png.png)
   
 - **Box Plot** : Permet d’identifier, pour chaque type d’utilisation des bâtiments, la surface en mètres carrés recouverte par les toits végétalisés. Les boîtes à moustache représentent les 50% (entre 25% et 75%) des valeurs des surfaces pour chaque type d’utilisation des bâtiments.
 
-    ![Capture d'écran du box plot](images/boxplot.png)
+    ![Capture d'écran du box plot](images/boxplot.png.png)
 
 ### Interactions entre les Visualisations
 Nos trois visualisations sont connectées les unes avec les autres de plusieurs façons :
 
 1. **Boutons Radio pour Sélectionner l'Année** : L’utilisateur peut choisir l’année à analyser (2009, 2012, 2015, 2019). Les visualisations s’adaptent simultanément à l’année sélectionnée.
 
-    ![Capture d'écran des boutons radio](images/radio-button.png)
+    ![Capture d'écran des boutons radio](images/radio-button.png.png)
    
 2. **Survol de la Souris** : En passant la souris sur une visualisation :
    - Si un toit végétalisé est touché sur la carte, seul le type d’utilisation des bâtiments correspondant apparaît sur la carte, tandis que les graphiques en barres et le box plot réagissent en affichant uniquement le type d’utilisation du bâtiment en question.
    - Si la souris touche une barre ou une boîte à moustache, la carte réagit en gardant uniquement la couleur touchée dans les graphiques.
 
-   ![Capture d'écran du survol de souris](images/mouseover.png)
+   ![Capture d'écran du survol de souris](images/mouseover.png.png)
 
 ### Utilisation
 Nos visualisations et leurs fonctions interactives permettent d’avoir une vue globale de l’évolution des toits végétalisés sur le canton de Genève et de la surface qu’ils représentent. Cette application peut être utile pour des urbanistes, architectes ou toute personne curieuse de connaître quels types de bâtiments les toits végétalisés recouvrent et leur évolution sur 10 ans.
